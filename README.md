@@ -23,9 +23,7 @@ It includes 6 fully interactive dashboards, custom DAX measures, and business-dr
 
 ## Screenshots
 
-![Executive Summary](./OPTAX%201.JPG)
-![Customer Segments](./OPTAX%202.JPG)
-![Behavioral Drivers](./OPTAX%204.JPG)
+Check the folder named "optax"
 
 
 ## Tools Used
