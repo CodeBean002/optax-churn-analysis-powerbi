@@ -35,4 +35,4 @@ Check the folder named "optax"
 
 ## Author
 
-[Eniola John Abatan] – [LinkedIn Profile](https://www.linkedin.com/in/codebean1474)
+Eniola John Abatan – [LinkedIn Profile](https://www.linkedin.com/in/codebean1474)
